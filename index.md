@@ -3,7 +3,7 @@
 ---
 
 ### Mobile App
-    React Native
+    React-Native
 
 [Weather forecast App](/sample_page)
 <img src="images/weatherapp.jpg?raw=true"/>
