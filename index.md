@@ -2,10 +2,16 @@
 
 ---
 
-### Category Name 1 
+### Mobile App
+    React Native
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Weather forecast App](/sample_page)
+<img src="images/weatherapp.jpg?raw=true"/>
+
+Functionality: 
+- Display local temperature and weeks forecast, based on the device location
+- Possibility to search for the weather by city name
+- Use OpenWeatherMap and Google Autocomplete APIs
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
