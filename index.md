@@ -10,13 +10,25 @@
 <a href="https://github.com/petroula861/react_native/tree/master/weatherapp">Git Hub repository</a>
 
 Functionality: 
-- Display local temperature and weeks forecast, based on the device location
+- Display local temperature and weekly forecast, based on the device location
 - Possibility to search for the weather by city name
 - Use OpenWeatherMap and Google Autocomplete APIs
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Ecommerce Web App
+    React , Express/NodeJs , MongoDB
+
+<a href="https://github.com/petroula861/react_native/tree/master/weatherapp"><img src="images/weatherapp.jpg?raw=true"/></a>
+
+<a href="https://github.com/petroula861/react_native/tree/master/weatherapp">Git Hub repository</a>
+
+<a href="http://188.166.7.202:3000/">App deployed on DigitalOcean</a>
+
+Functionality: 
+- Display local temperature and weeks forecast, based on the device location
+- Possibility to search for the weather by city name
+- Use OpenWeatherMap and Google Autocomplete APIs
 
 ---
 [Project 3 Title](http://example.com/)
