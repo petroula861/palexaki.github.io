@@ -7,7 +7,7 @@
 
 <img src="images/weatherapp.jpg?raw=true"/>
 
-[Git Hub repository](/react_native/tree/master/weatherapp)
+<a href="https://github.com/petroula861/react_native/tree/master/weatherapp">Git Hub repository</a>
 
 Functionality: 
 - Display local temperature and weeks forecast, based on the device location
