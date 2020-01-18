@@ -2,11 +2,12 @@
 
 ---
 
-### Mobile App
+### Weather Forecast Mobile App
     React-Native
 
-[Weather forecast App](/sample_page)
 <img src="images/weatherapp.jpg?raw=true"/>
+
+[Git Hub repository](/react_native/tree/master/weatherapp)
 
 Functionality: 
 - Display local temperature and weeks forecast, based on the device location
