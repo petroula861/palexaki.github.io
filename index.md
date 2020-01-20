@@ -5,7 +5,7 @@
 ### Weather Forecast Mobile App
     React-Native
 
-<a href="https://github.com/petroula861/react_native/tree/master/weatherapp1"><img src="images/weatherapp1x15.jpg?raw=true"/><img src="images/weatherapp2x15.jpg?raw=true"/></a>
+<a href="https://github.com/petroula861/react_native/tree/master/weatherapp"><img src="images/weatherapp1x15.jpg?raw=true"/>      <img src="images/weatherapp2x15.jpg?raw=true"/></a>
 
 <a href="https://github.com/petroula861/react_native/tree/master/weatherapp">Git Hub repository</a>
 
