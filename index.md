@@ -38,7 +38,7 @@ Functionality:
 
   ## single-page responsive website
   
-  <a href="https://htmlproject1.netlify.com/"><img src="images/project1_x15.png?raw=true"/></a>
+  <a href="https://htmlproject1.netlify.com/"><img src="images/project1.png?raw=true"/></a>
 
   <a href="https://github.com/petroula861/css_html/tree/master/01_singlepage_website">Git Hub repository</a>
 
