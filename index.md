@@ -36,7 +36,7 @@ Functionality:
 ### Static Web Sites
     html , css
 
-  ### single-page responsive website
+### single-page responsive website
   
   <a href="https://htmlproject1.netlify.com/"><img src="images/project1new_x15.png?raw=true"/></a>
 
@@ -49,7 +49,7 @@ Functionality:
   - responsive grid of images (flexbox)
   - Use of media queries
 
-   ### multiple pages website 
+### multiple pages website 
    
    <a href="https://htmlproject2.netlify.com/"><img src="images/project2_x15.png?raw=true"/></a>
 
