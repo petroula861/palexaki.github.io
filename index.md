@@ -61,5 +61,3 @@ Functionality:
   - Recreation of Barcelona Code School’s website. Specifically: The Homepage, Calendar and About Page
   
 ---
-
-<!-- Remove above link if you don't want to attibute -->
