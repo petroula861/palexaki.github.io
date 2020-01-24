@@ -51,7 +51,7 @@ Functionality:
 
 ### multiple pages website 
    
-   <a href="https://htmlproject2.netlify.com/"><img src="images/project2_x15.png?raw=true"/></a>
+   <a href="https://htmlproject2.netlify.com/"><img src="images/project2.png?raw=true"/></a>
 
    <a href="https://github.com/petroula861/css_html/tree/master/02_4_pages_bcs_website">Git Hub repository</a>
 
