@@ -1,6 +1,7 @@
 title: Petroula Alexaki # your name (or website title) here
 logo: "/images/photo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description:  # your text below (remove <br> elements if you don't need line breaks)
+First Description 
 javascript , React , Node.js , Express , MongoDB , API's , htlm , css
 #The last 5 years I have been working as a technical support Analyst for Infor ERP Software company. 
 #I have experience in researching and software troubleshooting; debugging code and administering systems. 
