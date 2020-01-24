@@ -58,7 +58,7 @@ Functionality:
    <a href="https://htmlproject2.netlify.com/">Deployed on Netlify</a>
   
   Functionality: 
-  - Recreation of Barcelona Code School’s website
+  - Recreation of Barcelona Code School’s website. Specifically: The Homepage, Calendar and About Page
   
 ---
 
