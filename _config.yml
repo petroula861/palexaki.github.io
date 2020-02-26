@@ -2,10 +2,12 @@ title: Petroula Alexaki # your name (or website title) here
 logo: "/images/photo_x25.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
+  <b>contact:</b>
+  <div> alexakip@gmail.com | +306972379110 | +34654845701</div>
+  <br>
   <h2>Skills:</h2> 
   <h4>JavaScript | React | Node.js | Express | MongoDB | React-Native | HTML | CSS </h4>
-  <div> alexakip@gmail.com </div>
-  <div>+306972379110  +34654845701</div>
+
  
   
 
