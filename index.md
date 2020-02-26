@@ -5,7 +5,7 @@
 ### Display POIs App
     Redux , React-Native
 
-<a href="https://github.com/petroula861/react_native_POIS"><img src="images/weatherapp1_x15.jpg?raw=true"/> <img src="images/weatherapp2x15.jpg?raw=true"/></a>
+<a href="https://github.com/petroula861/react_native_POIS"><img src="images/mobileapp_pois_1.jpg?raw=true"/> <img src="images/mobileapp_pois_1.jpg?raw=true"/><img src="images/mobileapp_pois_3.jpg?raw=true"/><img src="images/mobileapp_pois_4.jpg?raw=true"/></a>
 
 <a href="https://github.com/petroula861/react_native_POIS">Git Hub repository</a>
 
