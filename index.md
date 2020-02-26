@@ -17,8 +17,6 @@ Functionality:
 - Calculate distance based on location
 - show data in google maps using clusters
 
----
-
 ### Weather Forecast Mobile App
     React-Native , Javascript
 
