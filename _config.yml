@@ -7,9 +7,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
  
   
-  
-contact: alexakip@gmail.com
-phone: +306972379110 | +34654845701
+conatct:
+alexakip@gmail.com 
++306972379110  +34654845701
 
 
 theme: jekyll-theme-minimal
