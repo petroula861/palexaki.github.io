@@ -2,8 +2,23 @@
 
 ---
 
+### Display POIs App
+    Redux , React-Native
+
+<a href="https://github.com/petroula861/react_native_POIS"><img src="images/weatherapp1_x15.jpg?raw=true"/> <img src="images/weatherapp2x15.jpg?raw=true"/></a>
+
+<a href="https://github.com/petroula861/react_native_POIS">Git Hub repository</a>
+
+Functionality: 
+- 2 screens app with tab navigation
+- Fetch data from url, save them to a Redux store and display a list
+- Calculate distance based on location
+- show data in google maps using clusters
+
+---
+
 ### Weather Forecast Mobile App
-    React-Native , javascript
+    React-Native , Javascript
 
 <a href="https://github.com/petroula861/react_native/tree/master/weatherapp"><img src="images/weatherapp1_x15.jpg?raw=true"/>        <img src="images/weatherapp2x15.jpg?raw=true"/></a>
 
@@ -17,7 +32,7 @@ Functionality:
 ---
 
 ### Ecommerce Web App
-    React , javascript,  Express/NodeJs , MongoDB
+    React , Javascript,  Express/NodeJs , MongoDB
 
 <a href="https://github.com/petroula861/02_react_express/tree/master/ecommerce_app"><img src="images/ecommerceapp.png?raw=true"/></a>
 
@@ -34,7 +49,7 @@ Functionality:
 ---
 
 ### Static Web Sites
-    html , css
+    HTML , CSS
 
 ### single-page responsive website
   
